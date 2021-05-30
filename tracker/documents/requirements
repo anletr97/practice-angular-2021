@@ -1,3 +1,5 @@
 Fontawesome: 
 + link: https://github.com/FortAwesome/angular-fontawesome (version "^0.7.0")
 + cli: ng add @fortawesome/angular-fontawesome 
+node: v10.18.1
+npm: 7.5.2
